@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: kenai的个人博客
-subtitle:
-description:
+title: Adventures of kenai
+subtitle: 自己选择的路，就算是跪着也要走完
+description: 自学android
 author: kenai
-language: 
+language: zh-Hans 
 timezone:
 
 # URL
@@ -62,7 +62,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: yilia
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -74,3 +74,55 @@ deploy:
   port: 22
   delete: true
   
+# 站点地图
+sitemap:
+path: sitemap.xml
+baidusitemap:
+path: baidusitemap.xml
+  
+# =============================================================================
+# NexT Theme configuration
+# =============================================================================
+
+avatar: https://avatars1.githubusercontent.com/u/4608983?v=3&u=67ffb3b231e2180ffb2bd27a99bd15ae48c05a3c&s=140
+
+# Duoshuo
+duoshuo_shortname: kenai
+
+# Disqus
+# disqus_shortname: 
+
+
+# Social links
+social:
+  GitHub: https://github.com/kenaiX
+#  Twitter: https://twitter.com/iissnan
+  Weibo: http://weibo.com/kenaiX
+#  DouBan: http://douban.com/people/iissnan
+  ZhiHu: http://www.zhihu.com/people/kenai
+
+
+# Creative Commons 4.0 International License.
+# http://creativecommons.org/
+# Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
+# creative_commons: by-nc-sa
+
+# Google Webmaster tools verification setting
+# See: https://www.google.com/webmasters/
+# google_site_verification: VvyjvVXcJQa0QklHipu6pwm2PJGnnchIqX7s5JbbT_0
+
+
+# Google Analytics
+# Google分析ID
+google_analytics: UA-50825534-2
+
+
+# 百度分析ID
+# baidu_analytics: 50c15455e37f70aea674ff4a663eef27
+
+# Specify the date when the site was setup
+since: 2011
+
+# =============================================================================
+# End NexT Theme configuration
+# =============================================================================
