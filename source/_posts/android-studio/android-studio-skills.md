@@ -1,5 +1,6 @@
 title: "Android Studio 使用技巧"
 date: 2015-03-11
+categories: android
 tags: work skill
 ---
 此文档会保持更新

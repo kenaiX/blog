@@ -1,6 +1,7 @@
 title: "Hexo生成sitemap站点地图的方法"
 date: 2015-06-10 00:00:00
-tags: hexo sitemap 站点地图
+categories: hexo
+tags: [hexo,sitemap,站点地图]
 ---
 1、安装插件：
 ```

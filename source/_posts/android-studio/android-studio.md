@@ -1,5 +1,6 @@
 title: android-studio使用推广，附导入android源码方法
 date: 2015-03-11
+categories: android
 tags: work skill
 ---
 

@@ -1,6 +1,7 @@
-title: "一个下载量过千万的开发者是怎样炼成的"
+title: "一个下载量过千万的android个人开发者是怎样炼成的"
 date: 2015-05-27
-tags: android 自学
+categories: android
+tags: [android,自学]
 ---
 
 > 以下文档是我在同济大学参加一次魅族活动的时候所用的演讲稿

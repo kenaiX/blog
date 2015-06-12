@@ -1,5 +1,6 @@
 title: "工作技巧"
 date: 2015-03-06 01:57:18
+categories: work
 tags: work skill
 ---
 此文档会保持更新，以Q&A方式收集工作的一些经验。
