@@ -1,6 +1,6 @@
 title: 利用xml创建vectorAnimation（一）
 date: 2015-03-10
-categories: android
+categories: android-animation
 tags: [android,animation]
 ---
 > 原创，转载请附原链接！谢谢！
